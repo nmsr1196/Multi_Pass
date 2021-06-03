@@ -1,5 +1,5 @@
 # Multi_Pass
-This will be a livable document until completion of information is done
+This document contains all aspects to completing this project. Please read before implementing.
 I will also supply the links
 
 BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS:
@@ -128,6 +128,8 @@ MP_FRONT.jpg - This is a picture of the front of the multipass
 MP_BACK.jpg - This is a picture of the back of the multipass
 
 MultiPass_CRICUT_BACK.svg - This is the file to use on a cricut to cover wiring on the back of multipass (remember light cardstock or regular paper)
+
+MultiPass.fzz - Fritzing document with wired device connectivity
 
 
 
