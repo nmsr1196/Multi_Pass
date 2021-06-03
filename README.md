@@ -36,20 +36,32 @@ You can use any led you like. The hole fits a 3mm. If you change to a larger one
 BELOW ARE THE PARTS USED:
 
 -QT Py 2040 (https://www.adafruit.com/product/4900) I think you can use any version of th QT Py
+
 -7 Neopixel jewel (https://www.adafruit.com/product/2859) I think you can use any one of them. I think they are the same size
+
 -Button (https://www.adafruit.com/product/3870)
+
 -3mm LED (https://www.adafruit.com/product/4202) You can use any type of 3mm LED
+
 -Resistor I used a 2.2K ohm. You can select your own value. I chose a higher value to reduce brightness
+
 -Wire wrap (https://www.amazon.com/gp/product/B01CK9GZV6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) I used multiple colors to keep my wiring sanity.
-    You can use a solid color option is you like (https://www.adafruit.com/product/1446)    
+    You can use a solid color option is you like (https://www.adafruit.com/product/1446)
+    
 -OLED SSD1306 I2C (https://www.amazon.com/Pieces-Display-Module-SSD1306-Screen/dp/B08N6N8L5Q/ref=sr_1_8?dchild=1&keywords=oled+i2c&qid=1622717100&sr=8-8)
   You can use any version of this type. I chose this because of it low profile and its wiring connectors on one end.
+  
 -3D Material  I had some Prusa Silver PLA, you can use any color/material of your selection
+
 -Acrylic 1/8" green clear acrylic (you can use any color of your choosing) 1/8" fits the created model.
+
 -SP PH 2-pin Cable (https://www.adafruit.com/product/3814) This is for the connection to the power boost. Not needed depends on which powerboost chosen
+
 -PowerBoost (https://www.adafruit.com/product/2030)
 
+
 BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS
+
 You can put in your vaccine card or a card similar to the movie
 If you want to use something similiar to the movie I will include a Photoshop file.
 -you will/can change the following
