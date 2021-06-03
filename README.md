@@ -19,18 +19,27 @@ I used hot glue to secure the parts. And just a small bead on the bottom of the 
 3D PRINTING MODIFICATION:
 
 As mentioned before, this is a re-mix of the Ruiz brothers. The files will be included
+
 -The height geometery of the top part was increased to hold button, QT Py, Oled and neopixel 
+
 -Additional geometry was added for button(if same button is not used,then hot glue is your friend)
+
 -An addition part was created to hold the round acrylic lens. 
+
 -I added some small holes for the wiring to go through so that very little wiring is exposed on top
+
 -Added a battery holder, This depends on the type of LiPo used
+
 -An extra .stl was added for the holder of the neopixel lense This will be a very snug fit for the lense and no hot glue is needed for this
+
 
 ACRYLIC:
 
 Acrylic does not have to be used. A light diffusion 3D material can be use
 There were two simple pieces of clear green 1/8" acrylic used. These were simple and fast to cut. The files will be included
+
 -For the round acrylic lens for the neopixel I used 1/4 clear green acrylic. I used a frosting spray to offset some brightnes of the neopixel light
+
 -For the stem I used a smaller size due to the added geometry of the switch
 
 POWER:
