@@ -38,6 +38,7 @@ POWER:
 You can used any lipo battery you like. But, you will have to change the 3D holder for it if you don't use the same one I used
 -100 mAh LiPo
 -Power Boost (You can use any one)
+-Used a diode to connect to 5 volt pin of the QT Py 2040. Cathode side to 5V pin of QT Py (https://learn.adafruit.com/adafruit-qt-py-2040/pinouts)
 
 LED:
 You can use any led you like. The hole fits a 3mm. If you change to a larger one, the 3D hole will have to be modified
@@ -52,6 +53,8 @@ BELOW ARE THE PARTS USED:
 -Button (https://www.adafruit.com/product/3870)
 
 -3mm LED (https://www.adafruit.com/product/4202) You can use any type of 3mm LED
+
+-Diode is used to connect between powerboost 5V and 5V pin to QT Py. Cathode to 5V pin (https://learn.adafruit.com/adafruit-qt-py-2040/pinouts)
 
 -Resistor I used a 2.2K ohm. You can select your own value. I chose a higher value to reduce brightness
 
