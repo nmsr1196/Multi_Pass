@@ -5,15 +5,19 @@ I will also supply the links
 BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS:
 
 CODE:
+
 The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040.
 
 WIRING:
+
 To try and keep a thin profile, I used wire-wrap. To insure connectivity, I also soldered the connections of the wire-wrap connections.
 
 GLUE USED:
+
 I used hot glue to secure the parts. And just a small bead on the bottom of the QT Py. The 3D geometry should hold the QT Py but the bead of glue helps more.
 
-3D Printing Modification:
+3D PRINTING MODIFICATION:
+
 As mentioned before, this is a re-mix of the Ruiz brothers. The files will be included
 -The height geometery of the top part was increased to hold button, QT Py, Oled and neopixel 
 -Additional geometry was added for button(if same button is not used,then hot glue is your friend)
@@ -23,12 +27,14 @@ As mentioned before, this is a re-mix of the Ruiz brothers. The files will be in
 -An extra .stl was added for the holder of the neopixel lense This will be a very snug fit for the lense and no hot glue is needed for this
 
 ACRYLIC:
+
 Acrylic does not have to be used. A light diffusion 3D material can be use
 There were two simple pieces of clear green 1/8" acrylic used. These were simple and fast to cut. The files will be included
 -For the round acrylic lens for the neopixel I used 1/4 clear green acrylic. I used a frosting spray to offset some brightnes of the neopixel light
 -For the stem I used a smaller size due to the added geometry of the switch
 
 POWER:
+
 You can used any lipo battery you like. But, you will have to change the 3D holder for it if you don't use the same one I used
 -100 mAh LiPo
 -Power Boost (You can use any one)
@@ -64,7 +70,7 @@ BELOW ARE THE PARTS USED:
 -PowerBoost (https://www.adafruit.com/product/2030)
 
 
-BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS
+BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS:
 
 You can put in your vaccine card or a card similar to the movie.
 
