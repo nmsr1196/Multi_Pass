@@ -67,7 +67,7 @@ BELOW ARE THE PARTS USED:
 
 -SP PH 2-pin Cable (https://www.adafruit.com/product/3814) This is for the connection to the power boost. Not needed depends on which powerboost chosen
 
--PowerBoost (https://www.adafruit.com/product/2030)
+-PowerBoost (https://www.adafruit.com/product/2030) Almost any powerboost can be used depending on your selected wiring
 
 
 BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS:
