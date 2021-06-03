@@ -79,8 +79,15 @@ you will/can change the following because remember in order to get to 'Fhloston 
 
 
 FILES:
+
 MultiPass_Lense_Holder.stl
+
 Multipass_Insert.psd - This is a photoshop file for a movie version insert. This is optional if you want to use your vaccine card
-Multipass_Rod.svg - the is the rod for the side of the multipass. It should measure about 40mm x 4mm
+
+Multipass_Rod.svg - This is the rod for the side of the multipass. It should measure about 40mm x 4mm
+
+Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should measure 25.8mm
+
+MultiPass_SR.py - This is the code for the QT Py 2040
 
 
