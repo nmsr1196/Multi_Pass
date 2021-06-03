@@ -53,7 +53,7 @@ BELOW ARE THE PARTS USED:
   
 -3D Material  I had some Prusa Silver PLA, you can use any color/material of your selection
 
--Acrylic 1/8" green clear acrylic (you can use any color of your choosing) 1/8" fits the created model.
+-Acrylic 1/8" green clear acrylic (you can use any color of your choosing) 1/8" fits the created model. As mentioned above, this can be replace with 3D material
 
 -SP PH 2-pin Cable (https://www.adafruit.com/product/3814) This is for the connection to the power boost. Not needed depends on which powerboost chosen
 
