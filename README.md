@@ -19,6 +19,7 @@ As mentioned before, this is a re-mix of the Ruiz brothers. The files will be in
 -Added a battery holder, This depends on the type of LiPo used
 
 ACRYLIC:
+Acrylic does not have to be used. A light diffusion 3D material can be use
 There were two simple pieces of clear green 1/8" acrylic used. These were simple and fast to cut. The files will be included
 -For the round acrylic lens for the neopixel I used 1/4 clear green acrylic. I used a frosting spray to offset some brightnes of the neopixel light
 -For the stem I used a smaller size due to the added geometry of the switch
