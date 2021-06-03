@@ -45,8 +45,11 @@ There were two simple pieces of clear green 1/8" acrylic used. These were simple
 POWER:
 
 You can used any lipo battery you like. But, you will have to change the 3D holder for it if you don't use the same one I used
+
 -100 mAh LiPo  (https://www.adafruit.com/product/1570)
+
 -Power Boost (You can use any one)
+
 -Used a diode to connect to 5 volt pin of the QT Py 2040. Cathode side to 5V pin of QT Py (https://learn.adafruit.com/adafruit-qt-py-2040/pinouts)
 
 LED:
