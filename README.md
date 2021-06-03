@@ -33,6 +33,8 @@ As mentioned before, this is a re-mix of the Ruiz brothers. The files will be in
 -An extra .stl was added for the holder of the neopixel lense This will be a very snug fit for the lense and no hot glue is needed for this
 
 
+
+
 ACRYLIC:
 
 Acrylic does not have to be used. A light diffusion 3D material can be use
@@ -136,6 +138,7 @@ MultiPass.fzz - Fritzing document with wired device connectivity
 
 MultiPass_Battery_Holder.stl - LiPo 3.7v battery 100/105 mAh holder
 
+MultiPass_Suggestion.jpg - Suggestion to cut notch in movie card to bypass led
 
 
 
