@@ -1,0 +1,310 @@
+solid MultiPass_Battery_Holder.stl
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 109.15 102.954 5.70002
+      vertex 109.15 102.954 1.5797
+      vertex 108.5 102.954 5.7
+    endloop
+  endfacet
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 108.5 102.954 5.7
+      vertex 109.15 102.954 1.5797
+      vertex 108.5 102.954 1.5797
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 108.5 106.954 5.7
+      vertex 108.5 106.954 1.57971
+      vertex 109.15 106.954 5.70001
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 109.15 106.954 5.70001
+      vertex 108.5 106.954 1.57971
+      vertex 109.15 106.954 1.57971
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 102.954 1.5797
+      vertex 109.15 106.954 1.57971
+      vertex 108.5 102.954 1.5797
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 108.5 102.954 1.5797
+      vertex 109.15 106.954 1.57971
+      vertex 108.5 106.954 1.57971
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 102.954 5.70002
+      vertex 108.5 102.954 5.7
+      vertex 109.15 99.35 5.70002
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 99.35 5.70002
+      vertex 108.5 102.954 5.7
+      vertex 108.5 98 5.69999
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 99.35 5.70002
+      vertex 108.5 98 5.69999
+      vertex 140.85 99.35 5.70001
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 99.35 5.70001
+      vertex 108.5 98 5.69999
+      vertex 141.5 98 5.7
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 99.35 5.70001
+      vertex 141.5 98 5.7
+      vertex 141.5 112 5.70001
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 99.35 5.70001
+      vertex 141.5 112 5.70001
+      vertex 140.85 110.65 5.7
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 110.65 5.7
+      vertex 141.5 112 5.70001
+      vertex 108.5 112 5.7
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 110.65 5.7
+      vertex 108.5 112 5.7
+      vertex 109.15 110.65 5.70001
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 110.65 5.70001
+      vertex 108.5 112 5.7
+      vertex 108.5 106.954 5.7
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 110.65 5.70001
+      vertex 108.5 106.954 5.7
+      vertex 109.15 106.954 5.70001
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 102.954 5.7
+      vertex 108.5 102.954 1.5797
+      vertex 108.5 98 5.69999
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 98 5.69999
+      vertex 108.5 102.954 1.5797
+      vertex 108.5 98 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 98 0
+      vertex 108.5 102.954 1.5797
+      vertex 108.5 106.954 1.57971
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 98 0
+      vertex 108.5 106.954 1.57971
+      vertex 108.5 112 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 112 0
+      vertex 108.5 106.954 1.57971
+      vertex 108.5 112 5.7
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 108.5 112 5.7
+      vertex 108.5 106.954 1.57971
+      vertex 108.5 106.954 5.7
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 102.954 5.70002
+      vertex 109.15 99.35 5.70002
+      vertex 109.15 102.954 1.5797
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 102.954 1.5797
+      vertex 109.15 99.35 5.70002
+      vertex 109.15 99.35 1.50003
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 102.954 1.5797
+      vertex 109.15 99.35 1.50003
+      vertex 109.15 106.954 1.57971
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 106.954 1.57971
+      vertex 109.15 99.35 1.50003
+      vertex 109.15 110.65 1.50003
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 106.954 1.57971
+      vertex 109.15 110.65 1.50003
+      vertex 109.15 110.65 5.70001
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 109.15 110.65 5.70001
+      vertex 109.15 106.954 5.70001
+      vertex 109.15 106.954 1.57971
+    endloop
+  endfacet
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 109.15 99.35 5.70002
+      vertex 140.85 99.35 5.70001
+      vertex 109.15 99.35 1.50003
+    endloop
+  endfacet
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 109.15 99.35 1.50003
+      vertex 140.85 99.35 5.70001
+      vertex 140.85 99.35 1.50002
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 140.85 99.35 5.70001
+      vertex 140.85 110.65 5.7
+      vertex 140.85 99.35 1.50002
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 140.85 99.35 1.50002
+      vertex 140.85 110.65 5.7
+      vertex 140.85 110.65 1.50002
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 140.85 110.65 5.7
+      vertex 109.15 110.65 5.70001
+      vertex 140.85 110.65 1.50002
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 140.85 110.65 1.50002
+      vertex 109.15 110.65 5.70001
+      vertex 109.15 110.65 1.50003
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 109.15 110.65 1.50003
+      vertex 109.15 99.35 1.50003
+      vertex 140.85 110.65 1.50002
+    endloop
+  endfacet
+  facet normal 0 3.35276e-08 1
+    outer loop
+      vertex 140.85 110.65 1.50002
+      vertex 109.15 99.35 1.50003
+      vertex 140.85 99.35 1.50002
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 141.5 98 7.62939e-06
+      vertex 141.5 112 1.52588e-05
+      vertex 141.5 98 5.7
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 141.5 98 5.7
+      vertex 141.5 112 1.52588e-05
+      vertex 141.5 112 5.70001
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 108.5 98 0
+      vertex 141.5 98 7.62939e-06
+      vertex 108.5 98 5.69999
+    endloop
+  endfacet
+  facet normal 0 -1 3.35276e-08
+    outer loop
+      vertex 108.5 98 5.69999
+      vertex 141.5 98 7.62939e-06
+      vertex 141.5 98 5.7
+    endloop
+  endfacet
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 141.5 112 1.52588e-05
+      vertex 108.5 112 0
+      vertex 141.5 112 5.70001
+    endloop
+  endfacet
+  facet normal 0 1 -3.35276e-08
+    outer loop
+      vertex 141.5 112 5.70001
+      vertex 108.5 112 0
+      vertex 108.5 112 5.7
+    endloop
+  endfacet
+  facet normal 0 -3.35276e-08 -1
+    outer loop
+      vertex 108.5 112 0
+      vertex 141.5 112 1.52588e-05
+      vertex 108.5 98 0
+    endloop
+  endfacet
+  facet normal 0 -3.35276e-08 -1
+    outer loop
+      vertex 108.5 98 0
+      vertex 141.5 112 1.52588e-05
+      vertex 141.5 98 7.62939e-06
+    endloop
+  endfacet
+endsolid MultiPass_Battery_Holder.stl
