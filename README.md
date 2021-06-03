@@ -78,4 +78,9 @@ you will/can change the following because remember in order to get to 'Fhloston 
 -For the xray looking picture. Copy your original picutre and use Photoshop just 'invert'the image under the 'Image', 'Adjustments', then 'Invert' menu.
 
 
-  
+FILES:
+MultiPass_Lense_Holder.stl
+Multipass_Insert.psd - This is a photoshop file for a movie version insert. This is optional if you want to use your vaccine card
+Multipass_Rod.svg - the is the rod for the side of the multipass. It should measure about 40mm x 4mm
+
+
