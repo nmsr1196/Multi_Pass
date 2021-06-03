@@ -105,6 +105,14 @@ MultiPass_Mod_BOTTOM.stl - This is the modified bottom piece of the multipass
 
 MultiPass_Mod_TOP.stl - This is the modified top piece of the multipass
 
+MP_QTPi-1.mov - This video file shows the function of the multipass
+
+MP_QTPi_2-1.mov - This shows the side profile of the multipass
+
+MP_FRONT.jpg - This is a picture of the front of the multipass
+
+MP_BACK.jpg - This is a picture of the back of the multipass
+
 
 
 
