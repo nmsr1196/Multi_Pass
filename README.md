@@ -17,6 +17,7 @@ As mentioned before, this is a re-mix of the Ruiz brothers. The files will be in
 -An addition part was created to hold the round acrylic lens. 
 -I added some small holes for the wiring to go through so that very little wiring is exposed on top
 -Added a battery holder, This depends on the type of LiPo used
+-An extra .stl was added for the holder of the neopixel lense This will be a very snug fit for the lense and no hot glue is needed for this
 
 ACRYLIC:
 Acrylic does not have to be used. A light diffusion 3D material can be use
@@ -66,27 +67,28 @@ You can put in your vaccine card or a card similar to the movie.
 
 If you want to use something similiar to the movie I will include a Photoshop file.
 
-you will/can change the following because remember in order to get to 'Fhloston Paradise' duplicate IDs are not acceptable
--name
+You will/can change the following because remember in order to get to 'Fhloston Paradise' duplicate IDs are highly unacceptable:
 
--pictures
+--name
 
--numbers on pictures
+--pictures
 
-- The size of the pictures should be width:254mm x Height: 177.8mm This can be down in Photoshop menu: 'Image', 'Image Size'
+--numbers on pictures
 
--For the xray looking picture. Copy your original picutre and use Photoshop just 'invert'the image under the 'Image', 'Adjustments', then 'Invert' menu.
+--The size of the pictures should be width:254mm x Height: 177.8mm This can be down in Photoshop menu: 'Image', 'Image Size'
+
+--For the xray looking picture. Copy your original picutre and use Photoshop just 'invert'the image under the 'Image', 'Adjustments', then 'Invert' menu.
 
 
 FILES:
 
-MultiPass_Lense_Holder.stl
+MultiPass_Lense_Holder.stl - This is the holder for the lense. The hold of this should measure about 26mm
 
 Multipass_Insert.psd - This is a photoshop file for a movie version insert. This is optional if you want to use your vaccine card
 
 Multipass_Rod.svg - This is the rod for the side of the multipass. It should measure about 40mm x 4mm
 
-Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should measure 25.8mm
+Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should measure 25.8mm This will be a very snug fit. No hot glue necessary
 
 MultiPass_SR.py - This is the code for the QT Py 2040
 
