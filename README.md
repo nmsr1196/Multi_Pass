@@ -4,6 +4,9 @@ I will also supply the links
 
 BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS:
 
+CODE:
+The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040.
+
 WIRING:
 To try and keep a thin profile, I used wire-wrap. To insure connectivity, I also soldered the connections of the wire-wrap connections.
 
@@ -90,6 +93,6 @@ Multipass_Rod.svg - This is the rod for the side of the multipass. It should mea
 
 Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should measure 25.8mm This will be a very snug fit. No hot glue necessary
 
-MultiPass_SR.py - This is the code for the QT Py 2040
+MultiPass_SR.py - This is the code for the QT Py 2040. This has to be changed to 'code.py' for circuitpython for the QT Py 2040.
 
 
