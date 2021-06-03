@@ -62,12 +62,18 @@ BELOW ARE THE PARTS USED:
 
 BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS
 
-You can put in your vaccine card or a card similar to the movie
+You can put in your vaccine card or a card similar to the movie.
+
 If you want to use something similiar to the movie I will include a Photoshop file.
--you will/can change the following
+
+you will/can change the following because remember in order to get to 'Fhloston Paradise' duplicate IDs are not acceptable
 -name
+
 -pictures
--other details
+
+-numbers on pictures
+
 -For the xray looking picture. Copy your original picutre and use Photoshop just 'invert'the image under the 'Image', 'Adjustments', then 'Invert' menu.
+
 
   
