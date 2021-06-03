@@ -101,4 +101,10 @@ Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should 
 
 MultiPass_SR.py - This is the code for the QT Py 2040. This has to be changed to 'code.py' for circuitpython for the QT Py 2040.
 
+MultiPass_Mod_BOTTOM.stl - This is the modified bottom piece of the multipass
+
+MultiPass_Mod_TOP.stl - This is the modified top piece of the multipass
+
+
+
 
