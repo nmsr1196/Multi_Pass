@@ -69,6 +69,8 @@ BELOW ARE THE PARTS USED:
 
 -PowerBoost (https://www.adafruit.com/product/2030) Almost any powerboost can be used depending on your selected wiring
 
+-Light cardstock black paper or regular paper (The color chose is of your choosing)
+
 
 BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS:
 
@@ -112,6 +114,8 @@ MP_QTPi_2-1.mov - This shows the side profile of the multipass
 MP_FRONT.jpg - This is a picture of the front of the multipass
 
 MP_BACK.jpg - This is a picture of the back of the multipass
+
+MultiPass_CRICUT_BACK.svg - This is the file to use on a cricut to cover wiring on the back of multipass (remember light cardstock or regular paper)
 
 
 
