@@ -1,8 +1,5 @@
-"""CircuitPython Essentials NeoPixel example by Adafrut"""
-"""MultiPass Circuit Python Code"""
-"""Modified by Stuart Riggs 5/2021"""
+"""CircuitPython Essentials NeoPixel example by Adafrut.MultiPass/StuartRiggs5/2021"""
 
-#Library imports
 import time
 import board
 import neopixel
@@ -55,7 +52,7 @@ inner_palette[0] = 0x000000  # Black
 inner_sprite = displayio.TileGrid(inner_bitmap, pixel_shader=inner_palette, x=5, y=4)
 splash.append(inner_sprite)
 
-#Text Setup for OLED Display for 1 Time Cycle
+# Text Setup for OLED Display for 1 Time Cycle
 text = "V A C C I N E ..."
 text_area = label.Label(terminalio.FONT, text=text, color=0xFFFF00, x=15, y=15)
 splash.append(text_area)
