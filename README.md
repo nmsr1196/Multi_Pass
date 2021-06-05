@@ -114,7 +114,7 @@ MultiPass_Lense_Holder.stl - This is the holder for the lense. The hold of this 
 
 Multipass_Insert.psd - This is a photoshop file for a movie version insert. This is optional if you want to use your vaccine card
 
-Multipass_Rod.svg - This is the rod for the side of the multipass. It should measure about 40..89mm x 3.99mm
+Multipass_Rod_.svg - This is the rod for the side of the multipass. It should measure about 40..89mm x 3.99mm
 
 Multipass_lense.svg - This is the lense cover for the neopixel jewel. It should measure 25.6mm This will be a very snug fit. No hot glue necessary
 
