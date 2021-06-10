@@ -91,7 +91,7 @@ BELOW ARE THE PARTS USED:
 
 BELOW IS THE TYPE OF CARD YOU WILL USE TO PLACE IN YOUR MULTIPASS:
 
-You can put in your vaccine card or a card similar to the movie.
+You can put in the card similar to the movie.
 
 If you want to use something similiar to the movie I will include a Photoshop file.
 
