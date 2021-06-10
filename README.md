@@ -48,7 +48,7 @@ There were two simple pieces of clear green 1/8" acrylic used. These were simple
 
 POWER:
 
-You can used any lipo battery you like. But, you will have to change the 3D holder for it if you don't use the same one I used
+You can use any lipo battery you like. But, you will have to change the 3D holder for it if you don't use the same one I used
 
 -100 mAh LiPo  (https://www.adafruit.com/product/1570)
 
