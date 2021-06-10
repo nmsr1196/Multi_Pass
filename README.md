@@ -105,7 +105,7 @@ You will/can change the following because remember in order to get to 'Fhloston 
 
 --numbers on pictures
 
---Size of pictures can be down in Photoshop menu: 'Image', 'Image Size'
+--Size of pictures can be done in Photoshop menu: 'Image', 'Image Size'
 
 --For the xray looking picture. Copy your original picutre and use Photoshop just 'invert'the image under the 'Image', 'Adjustments', then 'Invert' menu.
 
