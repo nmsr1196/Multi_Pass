@@ -2,7 +2,7 @@
 This document contains all aspects to completing this project. Please read before implementing.
 I will also supply the links
 
-BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS:
+BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIPASS VERSION 1:
 
 CODE:
 
