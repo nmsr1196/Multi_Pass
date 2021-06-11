@@ -8,7 +8,7 @@ CODE:
 
 THIS PROJECT USES CIRCUITPYTHON
 
-The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040.
+The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040 or QT Py SAMD with Flash chip (https://www.adafruit.com/product/4763).
 
 WIRING:
 
