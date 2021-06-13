@@ -32,7 +32,7 @@ As mentioned before, this is a re-mix of the Ruiz brothers. The files will be in
 
 -Added a battery holder, This depends on the type of LiPo used
 
--An extra .stl was added for the holder of the neopixel lense This will be a very snug fit for the lense and no hot glue is needed for this
+-An extra .stl was added for the holder of the neopixel lens This will be a very snug fit for the lens and no hot glue is needed for this
 
 
 
