@@ -8,7 +8,8 @@ CODE:
 
 THIS PROJECT USES CIRCUITPYTHON
 
-The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040 or QT Py SAMD with Flash chip (https://www.adafruit.com/product/4763).
+The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040. If you use the QT Py SAMD with Flash chip (https://www.adafruit.com/product/4763) you
+may have memory errors with the ssd1306. If you don't use the ssd1306 you can use the QT Py SAMD.
 
 WIRING:
 
