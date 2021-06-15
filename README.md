@@ -119,7 +119,8 @@ FILES:
 
 MultiPass_Lense_Holder.stl - This is the holder for the lens. The hold of this should measure about 39.23mm(outer), 25.7mm(inner hole), 1.8mm height
 
-Multipass_Insert.psd - This is a photoshop file for a movie version insert. This is optional if you want to use your vaccine card
+Multipass_Insert.psd - This is a photoshop file for a movie version insert. Due to the power led, you will have to cut a notch for the insert to fit all the way.
+     Version 2 MP you can use either the movie version insert or your vaccine card.
 
 Multipass_Rod_.svg - This is the rod for the side of the multipass. It should measure about 40..89mm x 3.99mm
 
