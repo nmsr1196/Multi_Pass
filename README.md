@@ -9,7 +9,7 @@ BELOW ARE THE NOTES FOR HOW EVERYTHING WAS USED AND METHODS TO CREATE THE MULTIP
 
 CODE:
 
-THIS PROJECT USES CIRCUITPYTHON
+THIS PROJECT USES CIRCUITPYTHON 6.3.0 VERSION
 
 The code file 'MultiPass_SR.py' has to be changed to 'code.py' for the QT Py 2040.  If you use the QT Py SAMD you may have memory errors using the ssd1306. If you 
 decide to use the QT Py SAMD you will need Flash chip (https://www.adafruit.com/product/4763) to provide enough space for the libraries. If you don't use the ssd1306 
